@@ -5,6 +5,7 @@ class Author
   def initialize(name, title)
     @name = name
     @posts = []
+    @title = title
 
   end
 
