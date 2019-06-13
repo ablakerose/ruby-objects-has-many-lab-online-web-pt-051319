@@ -6,7 +6,7 @@ class Author
     @name = name
 
     @title = title
-    
+
 
   end
 
