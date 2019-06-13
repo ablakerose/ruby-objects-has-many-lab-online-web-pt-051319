@@ -13,8 +13,8 @@ class Post
       self.author.name
     else
       nil
-        binding.pry
     end
   end
+    binding.pry
 
 end
